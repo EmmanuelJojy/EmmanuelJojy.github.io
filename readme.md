@@ -1,6 +1,6 @@
-hello, world
+# Emmanuel Jojy - Portfolio
+## __Public artifact as of July 1st, 2023__
 
-@author: Emmanuel Jojy
+¯\\_(ツ)_/¯  
+@author: Emmanuel Jojy  
 This is Project Portfolio.
-
-Final Project for FISAT FSC.
